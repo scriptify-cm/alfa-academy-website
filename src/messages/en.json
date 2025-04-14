@@ -1,0 +1,146 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "events": "Events",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transcend Your Situation",
+    "subtitle": "Transform your vision into reality with ALFA Academy",
+    "description": "ALFA Academy accompanies you on your entrepreneurial journey to develop your potential and achieve your ambitions.",
+    "cta": "Join Us"
+  },
+  "about": {
+    "title": "About ALFA Academy",
+    "subtitle": "We help you unlock your potential",
+    "description": "ALFA Academy is an organization specialized in entrepreneurial training in Cameroon. Our mission is to provide young entrepreneurs with the tools and knowledge necessary to succeed in a constantly evolving economic environment.",
+    "vision": "Our Vision",
+    "visionText": "To create a generation of innovative African entrepreneurs, capable of transforming the economy of their country and continent.",
+    "mission": "Our Mission",
+    "missionText": "To accompany entrepreneurs on their journey by offering quality training, personalized mentoring, and a solid network."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Discover our membership offers",
+    "description": "ALFA Academy offers different packages adapted to your needs and your level of experience in entrepreneurship.",
+    "inscription": "Registration",
+    "membres": {
+      "actifs": {
+        "title": "Active Members",
+        "subtitle": "Beginner Entrepreneurs",
+        "price": "10,000 FCFA",
+        "benefits": [
+          "Participation in our online and offline events",
+          "Access to our entrepreneurship training",
+          "Immediate access to key resources",
+          "Personalized coaching on A to Z sales"
+        ]
+      },
+      "elites": {
+        "title": "Elite Members",
+        "subtitle": "Senior Entrepreneurs",
+        "price": "30,000 FCFA",
+        "benefits": [
+          "All Active Member benefits",
+          "Unlimited strategic project consultation",
+          "Access to project support",
+          "Possibility to join our ALFAMILY savings group"
+        ]
+      }
+    }
+  },
+  "events": {
+    "title": "Our Events",
+    "subtitle": "Participate in our upcoming events",
+    "description": "ALFA Academy regularly organizes conferences, workshops, and networking sessions for entrepreneurs.",
+    "upcoming": "Upcoming Events",
+    "past": "Past Events",
+    "conference": {
+      "title": "ALFA Academy CONFERENCE",
+      "theme": "SETTING UP A PROJECT WITHOUT FUNDING IN 2025",
+      "date": "Sunday, April 27",
+      "time": "2:00 PM - 5:00 PM",
+      "location": "Yaoundé (Mansel Hotel in Fouda)",
+      "limited": "Seats: Limited",
+      "benefits": {
+        "title": "Benefits:",
+        "items": [
+          "Conference",
+          "Networking",
+          "Contest Game",
+          "Strategic project consultation"
+        ]
+      },
+      "packs": {
+        "title": "The packs:",
+        "starter": {
+          "name": "Starter Pack",
+          "price": "2,000 CFA",
+          "benefits": [
+            "Event participation",
+            "Free materials"
+          ]
+        },
+        "gold": {
+          "name": "Gold Pack",
+          "price": "5,000 CFA",
+          "benefits": [
+            "All Starter Pack benefits",
+            "VIP networking with participants",
+            "VIP seating",
+            "Participation in the contest game"
+          ]
+        },
+        "vip": {
+          "name": "VIP Pack",
+          "price": "25,000 CFA",
+          "benefits": [
+            "All Gold Pack benefits",
+            "Strategic project consultation with Mr. Albert KAMKEU"
+          ]
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What our members say",
+    "description": "Discover the experiences of those who have joined our community and transformed their entrepreneurial lives."
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "The faces behind ALFA Academy",
+    "description": "Discover our dynamic and passionate team that works tirelessly to help you succeed."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help",
+    "description": "Do you have questions or need additional information? Don't hesitate to contact us.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "info": {
+      "email": "contact@alfa-academy.cm",
+      "phone": "(+237) 680 50 08 83 / 692 25 64 16",
+      "location": "Yaoundé, Cameroon"
+    }
+  },
+  "footer": {
+    "description": "ALFA Academy is an organization dedicated to entrepreneurial training and personal development in Cameroon.",
+    "links": "Quick Links",
+    "social": "Follow Us",
+    "copyright": "© 2025 ALFA Academy. All rights reserved."
+  },
+  "cta": {
+    "title": "Ready to transcend your situation?",
+    "description": "Join ALFA Academy today and start your journey towards entrepreneurial success.",
+    "button": "Join Now"
+  }
+}
