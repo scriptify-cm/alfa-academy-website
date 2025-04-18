@@ -1,6 +1,7 @@
 services:
   nextjs:
     build: .
+    restart: always
     ports:
       - "3002:3000"
     networks:
